@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giannigdev&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giannigdev&layout=compact)](https://github.com/giannigdev)
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=giannigdev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 
 <!--
