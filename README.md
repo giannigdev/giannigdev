@@ -1,7 +1,7 @@
 ## Hi There, I'am Gianni! 👋
 
 
-I am currently working from Italy. My main focus is on improving the architecture of the product i am working on so that other fellow and new hires can work smoothly 🏆
+I am currently working from Italy. My main focus is on improving the architecture of the product i am working on so that our work can be efficient 🏆
 
 * 🛠️ Currently Engineering an **E-commerce** iOS App
 * 👨🏻‍💻 Creator of 
